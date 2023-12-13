@@ -1,0 +1,24 @@
+
+.details-container {
+    margin-top: 20px;
+  }
+  
+  .details-header {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .details-item {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+  }
+  
+  .loading-message {
+    font-style: italic;
+    color: #666;
+  }
+  
+  .back-button {
+    margin-top: 15px;
+  }
+  
