@@ -22,6 +22,7 @@
 - Backend: Configure NASA API key in application.properties file.
 
 - Frontend: Configure backend API URL in src/config.js file.
+
 ### Usage
 - Access the React app at http://localhost:3000.
 - Explore asteroids data using the provided date picker(Date limit is 7 days from the start date)
